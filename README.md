@@ -1,4 +1,4 @@
-# EzProtogen
+# EzProtogen (for Arduino Nano)
 
 This is a plug-and-play software for a protogen fursuit head. It allows for
 use of 4 8x32 led matrix displays compatible with MAX72XX library. The features include: animated eyes on both sides, and unanimated maw.
