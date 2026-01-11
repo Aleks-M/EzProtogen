@@ -1,6 +1,6 @@
 /*
         Ez Protogen
-        Copyright© 2025 Aleks Michalina
+        Copyright© 2026 Aleks Michalina
         For Licensing, check readme.md
 */
 
